@@ -1,0 +1,12 @@
+[Unit]
+Description = Replaces the stock teamveiwer icons with integrated mint-y icons that conform with the system. From https://github.com/forever-and-a-day/teamveiwer-mintifier-service.
+
+[Service]
+Type=simple
+Restart=no
+RemainAfterExit=yes
+User=root
+ExecStart= /usr/bin/tviconreplace.sh
+
+[Install]
+WantedBy=multi-user.target
