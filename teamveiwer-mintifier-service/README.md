@@ -1,6 +1,8 @@
 # Teamveiwer Mintifier Service
 A service and bash script combination to force the teamveiwer tray icon to use the mint-y theme (teamveiwer will occasionally overwrite icons in the folder the bash script writes to). Designed for linux mint (in about 10 minutes). It's easy, but time consuming, hence the repo. Not affiliated with TeamViewer Germany GmbH.
 
+➡️ Moved from repository forever-and-a-day/teamveiwer-mintifier-service (deleted) when it was last updated on on Jul 1, 2021. 
+
 ## Steps
 
 File locations:
