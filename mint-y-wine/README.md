@@ -2,6 +2,8 @@
 
 A modification to the Wine registry to make wine applications use a non-ugly Mint-Y esque color palette. Credit to Minio on the [Ubuntu forums](https://ubuntuforums.org/showthread.php?t=55286) for the info!
 
+![mint-y-winetheme](https://user-images.githubusercontent.com/10383240/127800587-01444b11-5488-4992-ba17-930886937fad.png)
+
 ### Usage:
 1. Copy the contents of user.reg.txt to your clipboard. 
 2. Open `~/.wine/user.reg` in Text Editor (xed).
